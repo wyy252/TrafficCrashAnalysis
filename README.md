@@ -3,6 +3,8 @@ A data analysis project investigating the causes of traffic accidents in Chicago
 To run the web application, use the following command:  
 python -m streamlit run web.py
 
+## Video Link: 
+https://youtu.be/WGaEIQ6UwsA
 ## Project Idea:
 I want  to conduct a data analysis on the causes of traffic accidents, which will include the following components:
 
